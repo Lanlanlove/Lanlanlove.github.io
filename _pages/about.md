@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I received the B.Eng degree in software engineering from the [University of Electronic Science and Technology of China (UESTC)](https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/163947?fr=aladdin) in 2020. Then I received the Msc degree in advanced computer science in the [University of Manchester](https://baike.baidu.com/item/%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6/2609100?fr=aladdin) in 2021.Now I am a Ph.D. student of Fudan University, in [school of journalism](http://www.xwxy.fudan.edu.cn/n1339/index.html), supervised by [Prof. Shaojing Sun](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai112772.html) and [Dr. Jingjing Han](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai115623.html).
++ I received the B.Eng degree in software engineering from the [University of Electronic Science and Technology of China (UESTC)](https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/163947?fr=aladdin) in 2020. Then I received the Msc degree in advanced computer science in the [University of Manchester](https://baike.baidu.com/item/%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6/2609100?fr=aladdin) in 2021.Now I am a Ph.D. student of [Fudan University](https://baike.baidu.com/item/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6/111790?fr=aladdin), in [school of journalism](http://www.xwxy.fudan.edu.cn/n1339/index.html), supervised by [Prof. Shaojing Sun](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai112772.html) and [Dr. Jingjing Han](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai115623.html).
 + My research interest includes **Human-computer communication, Media psychology, computational social science** and I have published my works in both SCI/SSCI journals and EI conferences in related areas. 
 
 # 🔥 Recent News
@@ -45,24 +45,25 @@ redirect_from:
 </div></div>
 
 # 🎖 Honors and Awards
-- 2023.01: **2022 Asia and Pacific Mathematical Contest in Modeling (APMCM), Second Prize.**
-- 2022.11: **2023 UESTC Excellent Graduates (Top 5%).** 
-- 2022.10: **UESTC Outstanding Student Candidates (Top 1%).**
-- 2022.09: **UESTC Honor Research Award.**
-- 2022.02: **World Mathematical Contest in Modeling (MCM), Mertorious Winner Award.**
-- 2022.01: **Assigned as 'IEEE Student Member'.**
-- 2021.09: **Chinese Mathcup Modeling Contest, First Prize.**
-- 2021.12: **Chinese College Students Math Contest, First Prize.**
-- 2021.10: **Outstanding Students Scholarship in UESTC (Top 10%).**
+- 2021.06: **[Alibaba Tianchi](https://tianchi.aliyun.com/competition/activeList) Global AI Innovation Contest(Top 3%)**
+- 2021.04: **The Bronze Medal in [Kaggle Competition](https://www.kaggle.com/): “Jane Street Market Prediction” (Top 5%).** 
+- 2021.03: **Red Dot Design([红点奖](https://baike.baidu.com/item/%E7%BA%A2%E7%82%B9%E5%A5%96/7566145?fr=aladdin)) Concept Award (Honorable Mention)**
+- 2021.02: **The Silver Medal in [Kaggle Competition](https://www.kaggle.com/): [Riiid! Answer Correctness Prediction——Track knowledge states of 1M+ students in the wild](https://www.kaggle.com/competitions/riiid-test-answer-prediction) (Topic designed by AAAI2021). (Top 3%)**
+- 2018-2020: **Scholarship for Academic Excellence awarded by UESTC (Top 20%, in 3 successive years)**
+- 2019.07: **Excellent Member of the Summer Camp held by Chinese Academy of Sciences**
+- 2017.09: **2nd Prize in the Demo Class Competition held by UESTC**
+- 2016.12: **Honor of Excellent Volunteer in China College Students Entrepreneurship Competition**
 
 # 📖 Educations
-- 2023.06 - now :  **The Chinese University of Hong Kong, Shenzhen**, Ph.D in Electronic Engineering.
-- 2019.09 - 2023.06: **University of Electrronic and Technology of China**, B.Eng in Optoelectronic Science and Engineering.
+- 2022.08 - now :  **Fudan University**, Ph.D in Communication.
+- 2020.09 - 2021.10 : **University of Manchester**, Msc in advanced computer science.
+- 2016.09 - 2020.06: **University of Electronic Science and Technology of China**, B.Eng in Software Engineering.
 
 # 💬 Invited Talks
 - 2022.10: **The 6th UESTC Students Development Conference.**
 - 2022.04: **2022 UESTC Students Sharing Meeting on machine learning.**
  
 # 💻 Internships
-- 2021.07 - 2021.08: **Big Data in Clouds Corporation**, Guiyang, China.
-- 2021.06 - 2021.07: **Xi'An Institute of Optics and Precision Mechanics of CAS**, Xi'an, China.
+- 2020.01 - 2020.05: **Intern Software Engineer, Chengdu Icekredit Information Technology Co., Ltd**, Chengdu, China.
+- 2019.01 - 2019.08: **Intern Product Manager, Chengdu Icekredit Information Technology Co., Ltd**, Chengdu, China.
+- 2018.07 - 2018.09: **Intern Testing Engineer, Sichuan Cinghoo Science and Technology Co., Ltd**, Chengdu, China.
