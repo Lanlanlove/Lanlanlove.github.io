@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I received the B.Eng degree in optoelectronic information science from the University of Electronic Science and Technology of China (UESTC) in 2023. Now I am a Ph.D. student of The Chinese University of Hong Kong, Shenzhen in electronic engineering, supervised by [Prof. Feng Yin](https://myweb.cuhk.edu.cn/yinfeng) and [Prof. Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui).
-+ My research interest includes **Internet of things, network security, wireless localization and machine learning,** and I have published my works in  **IEEE Sens. J. and IEEE IoT J.** in related areas. 
++ I received the B.Eng degree in software engineering from the [University of Electronic Science and Technology of China (UESTC)](https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/163947?fr=aladdin) in 2020. Then I received the Msc degree in advanced computer science in the [University of Manchester](https://baike.baidu.com/item/%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6/2609100?fr=aladdin) in 2021.Now I am a Ph.D. student of Fudan University, in [school of journalism](http://www.xwxy.fudan.edu.cn/n1339/index.html), supervised by [Prof. Shaojing Sun](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai112772.html) and [Dr. Jingjing Han](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai115623.html).
++ My research interest includes **Human-computer communication, Media psychology, computational social science** and I have published my works in both SCI/SSCI journals and EI conferences in related areas. 
 
 # 🔥 Recent News
 - 2023.01: Won the Second Prize in the [2022 Asia and Pacific Mathematical Contest in Modeling (APMCM)](https://m.saikr.com/contest/notice_detail/10829).
