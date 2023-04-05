@@ -31,18 +31,23 @@ To be updated......
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sen.J.</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
+**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. 73rd Annual International Communication Association Conference(ICA 2023)
+**Gong,C** (2023). Who Stole My Memory? ——A Meta-Analysis and Systematic Review of “the Google Effect”. 73rd Annual International Communication Association Conference(ICA 2023)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCR Q2</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks](https://ieeexplore.ieee.org/document/9755128)
+**Gong, C**., Liu, R., Zhou, N., Luo, J., & Kumar Jain, D. (2022). [Smart Memory Storage Solution and Elderly Oriented Smart Equipment Design under Deep Learning.] (https://doi.org/10.1155/2022/6448302) Computational Intelligence and Neuroscience, 2022.https://doi.org/10.1155/2022/6448302
 
-**Xinyu Huang**, Yuanming Wu
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=cuDwCOwAAAAJ&citation_for_view=cuDwCOwAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
-- We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in WSNs. 
-- The detection accuracy and the false alarm rate are much lower than other effective methods.
-- We also reduced the computation complexity to $$O(n)$$.
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=B1eS9l4AAAAJ&citation_for_view=B1eS9l4AAAAJ:u-x6o8ySG0sC]) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
+- A smart memory storage solution based on memory-enhanced embedded learning is constructed based on meta-learning under deep learning. 
+- The results reveal that the solution based on deep learning has obvious effects on different datasets, with an average accuracy rate of 99.7%.
+- The proposed elderly oriented smart device effectively reduces the shortcomings in the current market and lowers the learning difficulty, which provides an important reference for further enriching devices in the ageing market.
 </div></div>
+
+**Gong, C**., & Niu, H. (2021). [Emotional Computing and Emotional Measurement Methods based on Intelligent Algorithms of Wireless Network Communication] (https://doi.org/10.1080/03772063.2021.1982417). IETE Journal of Research, 1-9.https://doi.org/10.1080/03772063.2021.1982417
+**Gong, C**., & Wu, G. (2021, June). [Design of Cerebral Palsy Rehabilitation Training System Based on Human-Computer Interaction](https://ieeexplore.ieee.org/abstract/document/9498976). In 2021 International Wireless Communications and Mobile Computing (IWCMC) (pp. 621-625). IEEE. https://doi.org/10.1109/IWCMC51323.2021.9498976 
+**Gong, C.** (2021). [A Click-Through Rate Prediction Algorithm Based on Real-Time Advertising Data Logs]. In Big Data Analytics for Cyber-Physical System in Smart City: BDCPS 2020, 28-29 December 2020, Shanghai, China (pp. 361-367). Springer Singapore.https://doi.org/10.1007/978-981-33-4572-0_53 (https://link.springer.com/chapter/10.1007/978-981-33-4572-0_53)
 
 # 🎖 Honors and Awards
 - 2021.06: **[Alibaba Tianchi](https://tianchi.aliyun.com/competition/activeList) Global AI Innovation Contest(Top 3%)**
