@@ -24,7 +24,7 @@ redirect_from:
 # 📖 Educations
 - 2022.08 - now :  **Fudan University**, Ph.D in Communication.
 - 2020.09 - 2021.10 : **University of Manchester**, Msc in Advanced Computer Science.
-- 2016.09 - 2020.06:  **University of Electronic Science and Technology of China**, B.Eng in Software Engineering.
+- 2016.09 - 2020.06 : **University of Electronic Science and Technology of China**, B.Eng in Software Engineering.
 
 # 🔥 Recent News
 To be updated......
@@ -39,7 +39,7 @@ To be updated......
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCR Q2</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
---**Gong, C**., et al. (2022).[Smart Memory Storage Solution and Elderly Oriented Smart Equipment Design under Deep Learning]. (https://doi.org/10.1155/2022/6448302)  Computational Intelligence and Neuroscience, 2022.   doi.org/10.1155/2022/6448302
+--**Gong, C**., et al. (2022).[Smart Memory Storage Solution and Elderly Oriented Smart Equipment Design under Deep Learning]. Computational Intelligence and Neuroscience, 2022. doi.org/10.1155/2022/6448302
   
 [**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=B1eS9l4AAAAJ&citation_for_view=B1eS9l4AAAAJ:u-x6o8ySG0sC]) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
 - A smart memory storage solution based on memory-enhanced embedded learning is constructed based on meta-learning under deep learning. 
