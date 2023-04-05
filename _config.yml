@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chen Gong"
-  avatar           : "cv1.png"
+  avatar           : "images/cv1.png"
   bio              : 
   location         : "Shanghai, China"
   employer         :
