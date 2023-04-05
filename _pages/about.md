@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I received the B.Eng degree in software engineering from the [University of Electronic Science and Technology of China (UESTC)](https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/163947?fr=aladdin) in 2020. Then I received the Msc degree in advanced computer science in the [University of Manchester](https://baike.baidu.com/item/%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6/2609100?fr=aladdin) in 2021.Now I am a Ph.D. student of [Fudan University](https://baike.baidu.com/item/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6/111790?fr=aladdin), in [school of journalism](http://www.xwxy.fudan.edu.cn/n1339/index.html), supervised by [Prof. Shaojing Sun](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai112772.html) and [Dr. Jingjing Han](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai115623.html).
++ I received the B.Eng degree in Software Engineering from the [University of Electronic Science and Technology of China (UESTC)](https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/163947?fr=aladdin) in 2020. Then I received the Msc degree in Advanced Computer Science in the [University of Manchester](https://baike.baidu.com/item/%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6/2609100?fr=aladdin) in 2021.Now I am a Ph.D. student of [Fudan University](https://baike.baidu.com/item/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6/111790?fr=aladdin), in [school of journalism](http://www.xwxy.fudan.edu.cn/n1339/index.html), supervised by [Prof. Shaojing Sun](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai112772.html) and [Dr. Jingjing Han](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai115623.html).
 + My research interest includes **Human-computer communication, Media psychology, computational social science** and I have published my works in both SCI/SSCI journals and EI conferences in related areas. 
 
 # 📖 Educations
 - 2022.08 - now :  **Fudan University**, Ph.D in Communication.
-- 2020.09 - 2021.10 : **University of Manchester**, Msc in advanced computer science.
-- 2016.09 - 2020.06: **University of Electronic Science and Technology of China**, B.Eng in Software Engineering.
+- 2020.09 - 2021.10 : **University of Manchester**, Msc in Advanced Computer Science.
+- 2016.09 - 2020.06:  **University of Electronic Science and Technology of China**, B.Eng in Software Engineering.
 
 # 🔥 Recent News
 To be updated......
@@ -55,12 +55,12 @@ To be updated......
 - 2016.12: **Honor of Excellent Volunteer in China College Students Entrepreneurship Competition**
 
 # 💻 Internships
-- 2020.12 - 2021.08 :  **Research on Universal Techniques for Multimodal Human Memory Enhancemen**, Research Assistant in Prof. Sarah Clinch’s HCI group at University of Manchester.
+- 2020.12 - 2021.08 :  **Research on Universal Techniques for Multimodal Human Memory Enhancemen**, Research Assistant in Prof. [Sarah Clinch’s](https://www.cs.manchester.ac.uk/study/postgraduate-research/research-projects/description/?projectid=11501) HCI group at University of Manchester.
 - 2020.09 - 2020.11 : **Data Engineering Project Practice and Improvement for Software Architecture of Ruritanian Oxygen Company**, Member of the postgraduate Research Program in Prof. Daniel Dresner’s group at University of Manchester.
 - 2020.01 - 2020.06: **Development of Intelligent Financial Software Based on Knowledge Graph Technology**, Undergraduate Graduation Thesis at UESTC and Chengdu Icekredit Information Technology Co., Ltd.
-- 2019.09 - 2020.01: **Development of Online Courses System**, Member of the Research and Development Program in Prof. Di Lin’s group funded by UESTC.
+- 2019.09 - 2020.01: **Development of Online Courses System**, Member of the Research and Development Program in Prof. [Di Lin’](https://faculty.uestc.edu.cn/lindi/zh_CN/index/172313/list/index.htm)s group funded by UESTC.
 - 2018.09 - 2019.01: **Development of HTML5-based Online Shopping Mall System**, Member of the Undergraduate Research Program funded by UESTC.
-- 2017.09 - 2018.01: **Prediction of Click Through Rate of Data Logs of Tencent Advertisement**, Member of Prof. Mengjuan Liu’s group at UESTC.
+- 2017.09 - 2018.01: **Prediction of Click Through Rate of Data Logs of Tencent Advertisement**, Member of Prof. [Mengjuan Liu’](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11250)s group at UESTC.
 
 
 # 💬 Invited Talks
