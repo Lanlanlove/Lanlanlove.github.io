@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chen Gong"
-  avatar           : "images/me.png"
+  avatar           : "cv1.png"
   bio              : 
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=B1eS9l4AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=B1eS9l4AAAAJ"
   email            : "cgong22@m.fudan.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Xinyu-Huang-56"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Lanlanlove"
+  github           : "https://github.com/Lanlanlove"
   google_plus      :
   keybase          :
   instagram        :
