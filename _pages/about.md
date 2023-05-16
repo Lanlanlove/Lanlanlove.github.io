@@ -51,7 +51,7 @@ To be updated......
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCR Q2</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
---**Gong,C**, et al. (2022).[Smart Memory Storage Solution and Elderly Oriented Smart Equipment Design under Deep Learning](https://www.hindawi.com/journals/cin/2022/6448302/). Computational Intelligence and Neuroscience, 2022. https://doi.org/10.1155/2022/6448302
+--**Gong,C**, et al. (2022).[Smart Memory Storage Solution and Elderly Oriented Smart Equipment Design under Deep Learning](https://www.hindawi.com/journals/cin/2022/6448302/). <i> Computational Intelligence and Neuroscience </i>, (SCI JCR Q2) 2022. https://doi.org/10.1155/2022/6448302
   
 [**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=B1eS9l4AAAAJ&citation_for_view=B1eS9l4AAAAJ:u-x6o8ySG0sC]) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
 - A smart memory storage solution based on memory-enhanced embedded learning is constructed based on meta-learning under deep learning. 
@@ -60,13 +60,13 @@ To be updated......
 </div></div>
 
 
---**Gong, C**., & Niu, H. (2021). [Emotional Computing and Emotional Measurement Methods based on Intelligent Algorithms of Wireless Network Communication](https://doi.org/10.1080/03772063.2021.1982417). IETE Journal of Research, 1-9.https://doi.org/10.1080/03772063.2021.1982417
+--**Gong, C**., & Niu, H. (2021). [Emotional Computing and Emotional Measurement Methods based on Intelligent Algorithms of Wireless Network Communication](https://doi.org/10.1080/03772063.2021.1982417). <i> IETE Journal of Research </i> (SCI JCR Q3), 1-9.https://doi.org/10.1080/03772063.2021.1982417
 
 
---**Gong, C**., & Wu, G. (2021, June). [Design of Cerebral Palsy Rehabilitation Training System Based on Human-Computer Interaction](https://ieeexplore.ieee.org/abstract/document/9498976). In 2021 International Wireless Communications and Mobile Computing (IWCMC) (pp. 621-625). IEEE. https://doi.org/10.1109/IWCMC51323.2021.9498976 
+--**Gong, C**., & Wu, G. (2021, June). [Design of Cerebral Palsy Rehabilitation Training System Based on Human-Computer Interaction](https://ieeexplore.ieee.org/abstract/document/9498976). In <i> 2021 International Wireless Communications and Mobile Computing (IWCMC)</i> (pp. 621-625). (CORE B* conference) IEEE. https://doi.org/10.1109/IWCMC51323.2021.9498976 
 
 
---**Gong, C.** (2021). [A Click-Through Rate Prediction Algorithm Based on Real-Time Advertising Data Logs](https://link.springer.com/chapter/10.1007/978-981-33-4572-0_53). In Big Data Analytics for Cyber-Physical System in Smart City: BDCPS 2020, 28-29 December 2020, Shanghai, China (pp. 361-367). Springer Singapore.https://doi.org/10.1007/978-981-33-4572-0_53 
+--**Gong, C.** (2021). [A Click-Through Rate Prediction Algorithm Based on Real-Time Advertising Data Logs](https://link.springer.com/chapter/10.1007/978-981-33-4572-0_53). In <i> Big Data Analytics for Cyber-Physical System in Smart City: BDCPS 2020</i>, 28-29 December 2020, Shanghai, China (pp. 361-367). Springer Singapore.https://doi.org/10.1007/978-981-33-4572-0_53 
 
 
 # 🎖 Honors and Awards
