@@ -94,6 +94,6 @@ To be updated......
 To be updated......
 
 # 💻 Internships
-- 2020.01 - 2020.05: **Intern Software Engineer, Chengdu Icekredit Information Technology Co., Ltd**, Chengdu, China.
-- 2019.01 - 2019.08: **Intern Product Manager, Chengdu Icekredit Information Technology Co., Ltd**, Chengdu, China.
-- 2018.07 - 2018.09: **Intern Testing Engineer, Sichuan Cinghoo Science and Technology Co., Ltd**, Chengdu, China.
+- 2020.01 - 2020.05: **Intern Software Engineer, [Chengdu Icekredit Information Technology Co., Ltd](https://www.icekredit.com/)**, Chengdu, China.
+- 2019.01 - 2019.08: **Intern Product Manager, [Chengdu Icekredit Information Technology Co., Ltd](https://www.icekredit.com/)**, Chengdu, China.
+- 2018.07 - 2018.09: **Intern Testing Engineer, [Sichuan Cinghoo Science and Technology Co., Ltd](http://www.cinghoo.com/)**, Chengdu, China.
