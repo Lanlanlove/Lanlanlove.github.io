@@ -34,11 +34,13 @@ To be updated......
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICA 2023</div><img src='images/海报ICA1.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 --**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. 73rd Annual International Communication Association Conference(ICA 2023)
+</div></div>
   
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICA 2023</div><img src='images/海报ICA-2.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 --**Gong,C** (2023). Who Stole My Memory? ——A Meta-Analysis and Systematic Review of “the Google Effect”. 73rd Annual International Communication Association Conference(ICA 2023)
+</div></div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCR Q2</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
