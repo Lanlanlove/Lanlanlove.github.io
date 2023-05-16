@@ -68,10 +68,12 @@ To be updated......
 
 --**Gong, C.** (2021). [A Click-Through Rate Prediction Algorithm Based on Real-Time Advertising Data Logs](https://link.springer.com/chapter/10.1007/978-981-33-4572-0_53). In <i> Big Data Analytics for Cyber-Physical System in Smart City: BDCPS 2020</i>, 28-29 December 2020, Shanghai, China (pp. 361-367). Springer Singapore.https://doi.org/10.1007/978-981-33-4572-0_53 
 
+--**Gong, C.** (2021). A calligraphy robot based on artificial intelligence. [National Intellectual Property Office](https://www.cnipa.gov.cn/)(国家知识产权局), grant.No.202120536988.9.
+
 
 # 🎖 Honors and Awards
-- 2021.06: **[Alibaba Tianchi](https://tianchi.aliyun.com/competition/activeList) Global AI Innovation Contest(Top 3%)**
-- 2021.04: **The Bronze Medal in [Kaggle Competition](https://www.kaggle.com/): “Jane Street Market Prediction” (Top 5%).** 
+- 2021.06: **[Alibaba Tianchi](https://tianchi.aliyun.com/competition/entrance/531852/introduction?spm=a2c22.12281949.J_3941670930.5.605a3b747wMFdr) Global AI Innovation Contest(Top 3%)**
+- 2021.04: **The Bronze Medal in [Kaggle Competition](https://www.kaggle.com/c/jane-street-market-prediction): “Jane Street Market Prediction” (Top 5%).** 
 - 2021.03: **Red Dot Design([红点奖](https://baike.baidu.com/item/%E7%BA%A2%E7%82%B9%E5%A5%96/7566145?fr=aladdin)) Concept Award (Honorable Mention)**
 - 2021.02: **The Silver Medal in [Kaggle Competition](https://www.kaggle.com/): [Riiid! Answer Correctness Prediction——Track knowledge states of 1M+ students in the wild](https://www.kaggle.com/competitions/riiid-test-answer-prediction) (Topic designed by AAAI2021). (Top 3%)**
 - 2018-2020: **Scholarship for Academic Excellence awarded by UESTC (Top 20%, in 3 successive years)**
