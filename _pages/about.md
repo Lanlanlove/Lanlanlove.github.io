@@ -81,7 +81,7 @@ To be updated......
 - 2017.09: **2nd Prize in the Demo Class Competition held by UESTC**
 - 2016.12: **Honor of Excellent Volunteer in China College Students Entrepreneurship Competition**
 
-# 💻 Internships
+# 💻 Research Experience
 - 2020.12 - 2021.08 :  **Research on Universal Techniques for Multimodal Human Memory Enhancemen**, Research Assistant in Prof. [Sarah Clinch’s](https://www.cs.manchester.ac.uk/study/postgraduate-research/research-projects/description/?projectid=11501) HCI group at University of Manchester.
 - 2020.09 - 2020.11 : **Data Engineering Project Practice and Improvement for Software Architecture of Ruritanian Oxygen Company**, Member of the postgraduate Research Program in Prof. Daniel Dresner’s group at University of Manchester.
 - 2020.01 - 2020.06: **Development of Intelligent Financial Software Based on Knowledge Graph Technology**, Undergraduate Graduation Thesis at UESTC and Chengdu Icekredit Information Technology Co., Ltd.
