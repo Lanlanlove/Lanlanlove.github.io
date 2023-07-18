@@ -22,9 +22,9 @@ redirect_from:
 + My research interest includes **Human-computer communication, Media psychology, Computational social science** and I have published my works in both SCI/SSCI journals and EI conferences in related areas. 
 
 # 📖 Educations
-- 2022.08 - now :  **Fudan University**(985 A), Ph.D in Communication.
-- 2020.09 - 2021.10 : **University of Manchester**(QS 27), Msc in Advanced Computer Science.
-- 2016.09 - 2020.06 : **University of Electronic Science and Technology of China**(985 A), B.Eng in Software Engineering.
+- 2022.08 - now :  **Fudan University**  (985 A), Ph.D in Communication.
+- 2020.09 - 2021.10 : **University of Manchester**  (QS 27), Msc in Advanced Computer Science.
+- 2016.09 - 2020.06 : **University of Electronic Science and Technology of China**  (985 A), B.Eng in Software Engineering.
 
 # 🔥 Recent News
 To be updated......
