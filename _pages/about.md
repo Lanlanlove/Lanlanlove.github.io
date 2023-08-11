@@ -90,8 +90,9 @@ To be updated......
 - 2017.09 - 2018.01: **Prediction of Click Through Rate of Data Logs of Tencent Advertisement**, Member of Prof. [Mengjuan Liu’](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11250)s group at UESTC.
 
 
-# 💬 Invited Talks
-To be updated......
+# 💬 Academic positions
+Reviewer: [humanities and social sciences communication](https://www.nature.com/palcomms/)
+Guest Editor: [Journal of Autonomous Intelligence](https://jai.front-sci.com/si.php/index/detail?id=83&jid=23)
 
 # 💻 Internships
 - 2020.01 - 2020.05: **Intern Software Engineer, [Chengdu Icekredit Information Technology Co., Ltd](https://www.icekredit.com/)**, Chengdu, China.
