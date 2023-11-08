@@ -27,7 +27,8 @@ redirect_from:
 - 2016.09 - 2020.06 : **University of Electronic Science and Technology of China**  (985 A), B.Eng in Software Engineering.
 
 # 🔥 Recent News
-To be updated......
+My paper was recently accepted in [Frontiers in Psychology](https://www.frontiersin.org/research-topics/51997/neurocognitive-features-of-human-robot-and-human-machine-interaction)!
+Our paper was recently accepted in [BMC Public Health](https://bmcpublichealth.biomedcentral.com/)!
 
 # 📝 Publications 
 
