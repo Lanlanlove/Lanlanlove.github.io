@@ -31,7 +31,7 @@ redirect_from:
 
 # 📝 Publications 
 
-   # Journals:
+   **Journals:**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers</div><img src='images/frontiers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,7 +66,11 @@ redirect_from:
 
 
 
-   # Conferences:
+
+
+
+
+   **Conferences:**
 
 --**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. <i> 73rd Annual International Communication Association Conference </i> (**ICA 2023**)
 
