@@ -31,7 +31,7 @@ redirect_from:
 
 # 📝 Publications 
 
-   **+Journals:**
+   **Journals:**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers</div><img src='images/frontiers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,10 +65,8 @@ redirect_from:
 --**Gong, C**., & Niu, H. (2021). [Emotional Computing and Emotional Measurement Methods based on Intelligent Algorithms of Wireless Network Communication](https://doi.org/10.1080/03772063.2021.1982417). <i> IETE Journal of Research </i> (**2022 SCI JCR Q3**), 1-9.https://doi.org/10.1080/03772063.2021.1982417
 
 <br>
-<br>
 
-
-   **+Conferences:**
+   **Conferences:**
 
 --**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. <i> 73rd Annual International Communication Association Conference </i> (**ICA 2023**)
 
@@ -83,7 +81,8 @@ redirect_from:
 
 --**Gong, C.** (2021). A calligraphy robot based on artificial intelligence. [National Intellectual Property Office](https://www.cnipa.gov.cn/)(国家知识产权局), grant.No.202120536988.9.
 
-
+<br>
+<br>
 # 🎖 Honors and Awards
 - 2021.06: **[Alibaba Tianchi](https://tianchi.aliyun.com/competition/entrance/531852/introduction?spm=a2c22.12281949.J_3941670930.5.605a3b747wMFdr) Global AI Innovation Contest(Top 3%)**
 - 2021.04: **The Bronze Medal in [Kaggle Competition](https://www.kaggle.com/c/jane-street-market-prediction): “Jane Street Market Prediction” (Top 5%).** 
@@ -94,6 +93,8 @@ redirect_from:
 - 2017.09: **2nd Prize in the Demo Class Competition held by UESTC**
 - 2016.12: **Honor of Excellent Volunteer in China College Students Entrepreneurship Competition**
 
+<br>
+<br>
 # 💻 Research Experience
 - 2020.12 - 2021.08 :  **Research on Universal Techniques for Multimodal Human Memory Enhancemen**, Research Assistant in Prof. [Sarah Clinch’s](https://www.cs.manchester.ac.uk/study/postgraduate-research/research-projects/description/?projectid=11501) HCI group at University of Manchester.
 - 2020.09 - 2020.11 : **Data Engineering Project Practice and Improvement for Software Architecture of Ruritanian Oxygen Company**, Member of the postgraduate Research Program in Prof. Daniel Dresner’s group at University of Manchester.
@@ -102,12 +103,15 @@ redirect_from:
 - 2018.09 - 2019.01: **Development of HTML5-based Online Shopping Mall System**, Member of the Undergraduate Research Program funded by UESTC.
 - 2017.09 - 2018.01: **Prediction of Click Through Rate of Data Logs of Tencent Advertisement**, Member of Prof. [Mengjuan Liu’](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11250)s group at UESTC.
 
-
+<br>
+<br>
 # 💬 Academic positions
 - Reviewer: [humanities and social sciences communication](https://www.nature.com/palcomms/)
 
 - Guest Editor: [Journal of Autonomous Intelligence](https://jai.front-sci.com/si.php/index/detail?id=83&jid=23)
 
+<br>
+<br>
 # 💻 Internships
 - 2020.01 - 2020.05: **Intern Software Engineer, [Chengdu Icekredit Information Technology Co., Ltd](https://www.icekredit.com/)**, Chengdu, China.
 - 2019.01 - 2019.08: **Intern Product Manager, [Chengdu Icekredit Information Technology Co., Ltd](https://www.icekredit.com/)**, Chengdu, China.
