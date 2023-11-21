@@ -31,6 +31,8 @@ redirect_from:
 
 # 📝 Publications 
 
+# 📝 Journals:
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers</div><img src='images/frontiers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 --**Gong,C**. (2023). AI Voices Reduce Cognitive Activity? A Psychophysiological Study of the Media Effect of AI and Human Newscasts in Chinese Journalism. <i> Frontiers in Psychology </i>, (**2022 SSCI JCR Q1**).  [10.3389/fpsyg.2023.1243078](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1243078/abstract)
@@ -49,13 +51,6 @@ redirect_from:
 </div></div>
 
 
---**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. <i> 73rd Annual International Communication Association Conference </i> (**ICA 2023**)
-
-
---**Gong,C** (2023). Who Stole My Memory? ——A Meta-Analysis and Systematic Review of “the Google Effect”. <i> 73rd Annual International Communication Association Conference </i>(**ICA 2023**)
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCR Q2</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 --**Gong,C**, et al. (2022).[Smart Memory Storage Solution and Elderly Oriented Smart Equipment Design under Deep Learning](https://www.hindawi.com/journals/cin/2022/6448302/). <i> Computational Intelligence and Neuroscience </i>, (**2021 SCI JCR Q2**) 2022. https://doi.org/10.1155/2022/6448302
@@ -68,6 +63,15 @@ redirect_from:
 
 
 --**Gong, C**., & Niu, H. (2021). [Emotional Computing and Emotional Measurement Methods based on Intelligent Algorithms of Wireless Network Communication](https://doi.org/10.1080/03772063.2021.1982417). <i> IETE Journal of Research </i> (**2022 SCI JCR Q3**), 1-9.https://doi.org/10.1080/03772063.2021.1982417
+
+
+
+# 📝 Conferences:
+
+--**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. <i> 73rd Annual International Communication Association Conference </i> (**ICA 2023**)
+
+
+--**Gong,C** (2023). Who Stole My Memory? ——A Meta-Analysis and Systematic Review of “the Google Effect”. <i> 73rd Annual International Communication Association Conference </i>(**ICA 2023**)
 
 
 --**Gong, C**., & Wu, G. (2021, June). [Design of Cerebral Palsy Rehabilitation Training System Based on Human-Computer Interaction](https://ieeexplore.ieee.org/abstract/document/9498976). In <i> 2021 International Wireless Communications and Mobile Computing (IWCMC)</i> (pp. 621-625). (**CCF B* conference**) IEEE. https://doi.org/10.1109/IWCMC51323.2021.9498976 
