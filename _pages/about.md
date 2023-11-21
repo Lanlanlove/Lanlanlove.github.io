@@ -39,6 +39,7 @@ redirect_from:
 - The human voice caused greater cognitive effect, which may reflect participants' trust in the credibility and fluency of the human voice news. 
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICA 2023</div><img src='images/BMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 --**Gong,C**., Ren, Y. (2023) PTSD, FOMO and fake news beliefs: a cross-sectional study of Wenchuan earthquake survivors. <i> BMC Public Health </i>, (**2022 SCI JCR Q2**).  [https://doi.org/10.1186/s12889-023-17151-z](https://doi.org/10.1186/s12889-023-17151-z)
@@ -47,16 +48,12 @@ redirect_from:
 - Those with higher PTSD symptoms are more likely to believe fake news and this is partly explained by FOMO. This effect is present in females and not males and is stronger in older people. Findings extend knowledge of the role of psychological variables in problematic Internet use among those with PTSD.
 
 
+
 --**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. <i> 73rd Annual International Communication Association Conference </i> (**ICA 2023**)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICA 2023</div><img src='images/海报ICA-2.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 --**Gong,C** (2023). Who Stole My Memory? ——A Meta-Analysis and Systematic Review of “the Google Effect”. <i> 73rd Annual International Communication Association Conference </i>(**ICA 2023**)
-- The "Google effect" refers to the idea that individuals rely on the Internet as a source of knowledge rather than remembering it for themselves. Humans may be less eager to answer inquiries willingly as a result of Internet access, preferring to utilise search engines instead.
-- The behaviours were found to be closely associated with external memory storage databases. And this phenomenon is also more likely to happen while using a mobile phone to browse the Internet rather than a computer.
-- People with a larger knowledge base are less susceptible to the consequences of internet use than those with a smaller knowledge base. “The Google effect” was stronger for persons who had used the Internet before than for those who had not. “The Google effect” varies by age, with children and the elderly being less affected by Internet search behaviour than adults, and the effect is less well defined in persons who lack Internet abilities or those who are older and have cognitive problems.
-</div></div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCR Q2</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
