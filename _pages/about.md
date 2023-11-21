@@ -31,7 +31,7 @@ redirect_from:
 
 # 📝 Publications 
 
-   **Journals:**
+   **+Journals:**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers</div><img src='images/frontiers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,13 +64,11 @@ redirect_from:
 
 --**Gong, C**., & Niu, H. (2021). [Emotional Computing and Emotional Measurement Methods based on Intelligent Algorithms of Wireless Network Communication](https://doi.org/10.1080/03772063.2021.1982417). <i> IETE Journal of Research </i> (**2022 SCI JCR Q3**), 1-9.https://doi.org/10.1080/03772063.2021.1982417
 
+<br>
+<br>
 
 
-
-
-
-
-   **Conferences:**
+   **+Conferences:**
 
 --**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. <i> 73rd Annual International Communication Association Conference </i> (**ICA 2023**)
 
