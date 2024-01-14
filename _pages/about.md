@@ -65,8 +65,12 @@ redirect_from:
 --**Gong, C**., & Niu, H. (2021). [Emotional Computing and Emotional Measurement Methods based on Intelligent Algorithms of Wireless Network Communication](https://doi.org/10.1080/03772063.2021.1982417). <i> IETE Journal of Research </i> (**2022 SCI JCR Q3**), 1-9.https://doi.org/10.1080/03772063.2021.1982417
 
 <br>
+<br>
 
    **Conferences:**
+   
+--**Gong,C** (2023).Others are more vulnerable to deepfake than I am”: Cognitive differences and Third-person perception in deepfake </i>(**ICA 2024**)
+
 
 --**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. <i> 73rd Annual International Communication Association Conference </i> (**ICA 2023**)
 
