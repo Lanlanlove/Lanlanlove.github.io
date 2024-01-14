@@ -78,7 +78,7 @@ redirect_from:
 
    **Conferences:**
    
---**Gong,C** (2023).Others are more vulnerable to deepfake than I am”: Cognitive differences and Third-person perception in deepfake </i>(**ICA 2024**)
+--**Gong,C** (2023).Others are more vulnerable to deepfake than I am”: Cognitive differences and Third-person perception in deepfake <i> 73rd Annual International Communication Association Conference </i> (**ICA 2024**)
 
 
 --**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. <i> 73rd Annual International Communication Association Conference </i> (**ICA 2023**)
@@ -120,6 +120,7 @@ redirect_from:
 <br>
 # 💬 Academic positions
 - Reviewer: [humanities and social sciences communication](https://www.nature.com/palcomms/)
+            [current psychology](https://link.springer.com/journal/12144)
 
 - Guest Editor: [Journal of Autonomous Intelligence](https://jai.front-sci.com/si.php/index/detail?id=83&jid=23)
 
