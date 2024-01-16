@@ -35,7 +35,7 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers</div><img src='images/frontier2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
---**Gong,C**. (2023). AI Voices Reduce Cognitive Activity? A Psychophysiological Study of the Media Effect of AI and Human Newscasts in Chinese Journalism. <i> Frontiers in Psychology </i>, (**2022 SSCI/SCI JCR Q1**).  [10.3389/fpubh.2024.1332030](https://doi.org/10.3389/fpubh.2024.1332030)
+--**Gong,C**, Yang Yang* (2023). Google effects on memory: A meta-analytical review of the media effects of intensive Internet search behavior. <i> Frontiers in Public Health </i>, (**2022 SSCI/SCI JCR Q1**).  [10.3389/fpubh.2024.1332030](https://doi.org/10.3389/fpubh.2024.1332030)
 - In this study, by carrying out meta-analysis, we found that google effects is closely associated with cognitive load, behavioral phenotype and cognitive self-esteem. And this phenomenon is also more likely to happen while using a mobile phone to browse the Internet rather than a computer.  
 -  People with a larger knowledge base are less susceptible to the consequences of Internet use than those with a smaller knowledge base. The media effect was stronger for persons who had used the Internet before than for those who had not
 - And meta-analyses show that participants in North America (parameter  = −1.0365, 95%CI  =  [−1.8758, −0.1972], p < 0.05) are more susceptible to frequent Internet search behavior relative to other regions. 
