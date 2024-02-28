@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I received the B.Eng degree in Software Engineering from the [University of Electronic Science and Technology of China (UESTC)](https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/163947?fr=aladdin) in 2020. Then I received the Msc degree in Advanced Computer Science in the [University of Manchester](https://baike.baidu.com/item/%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6/2609100?fr=aladdin) in 2021.Now I am a Ph.D. student of [Fudan University](https://baike.baidu.com/item/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6/111790?fr=aladdin), in [school of Journalism](http://www.xwxy.fudan.edu.cn/n1339/index.html), supervised by [Prof. Shaojing Sun](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai112772.html) and [Dr. Jingjing Han](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1374/u1ai115623.html).
++ I received the B.Eng degree in Software Engineering from the [University of Electronic Science and Technology of China (UESTC)](https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/163947?fr=aladdin) in 2020. Then I received the Msc degree in Advanced Computer Science in the [University of Manchester](https://baike.baidu.com/item/%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6/2609100?fr=aladdin) in 2021.Now I am a Ph.D. student of [Fudan University](https://baike.baidu.com/item/%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6/111790?fr=aladdin), in [school of Journalism](http://www.xwxy.fudan.edu.cn/n1339/index.html).
 + My research interest includes **Human-computer communication, Media psychology, Computational social science** and I have published my works in both SCI/SSCI journals and EI conferences in related areas. 
 
 # 📖 Educations
@@ -78,7 +78,7 @@ redirect_from:
 
    **Conferences:**
    
---**Gong,C** (2023).Others are more vulnerable to deepfake than I am”: Cognitive differences and Third-person perception in deepfake <i> 74rd Annual International Communication Association Conference </i> (**ICA 2024**)
+--**Gong,C** (2024).Others are more vulnerable to deepfake than I am”: Cognitive differences and Third-person perception in deepfake <i> 74rd Annual International Communication Association Conference </i> (**ICA 2024**)
 
 
 --**Gong,C**, Jingjing Han. (2023). Brain Activation Shows AI Voice is Less Engaging than Human Voice. <i> 73rd Annual International Communication Association Conference </i> (**ICA 2023**)
