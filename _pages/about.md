@@ -122,7 +122,8 @@ redirect_from:
 - Reviewer: [humanities and social sciences communication](https://www.nature.com/palcomms/),
             [current psychology](https://link.springer.com/journal/12144)
 
-- Guest Editor: [Journal of Autonomous Intelligence](https://jai.front-sci.com/si.php/index/detail?id=83&jid=23)
+- Guest Editor: [Journal of Autonomous Intelligence](https://jai.front-sci.com/si.php/index/detail?id=83&jid=23),
+                [Environment and Social Psychology](https://esp.apacsci.com/si.php/index/detail?id=139&jid=8). 
 
 <br>
 <br>
