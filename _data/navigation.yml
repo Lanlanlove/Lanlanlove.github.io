@@ -16,10 +16,10 @@ main:
     url: "/#-educations"
 
   - title: "Academic Positions"
-    url: "/#-academic Positions"
+    url: "/#-academic-positions"
     
   - title: "Research"
-    url: "/#-research Experience"
+    url: "/#-research-experience"
     
   - title: "Internships"
     url: "/#-internships"
