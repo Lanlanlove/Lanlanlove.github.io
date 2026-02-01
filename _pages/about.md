@@ -93,6 +93,7 @@ redirect_from:
 <br>
 <br>
 # 🎖 Honors and Awards
+
 - 2025.09: **复旦大学太平洋奖学金**
 - 2024.09: **复旦大学博士生国家奖学金**
 - 2021.06: **[Alibaba Tianchi](https://tianchi.aliyun.com/competition/entrance/531852/introduction?spm=a2c22.12281949.J_3941670930.5.605a3b747wMFdr) Global AI Innovation Contest(Top 3%)**
@@ -107,6 +108,7 @@ redirect_from:
 <br>
 <br>
 # 💻 Research Experience
+
 - 2020.12 - 2021.08 :  **Research on Universal Techniques for Multimodal Human Memory Enhancemen**, Research Assistant in Prof. [Sarah Clinch’s](https://www.cs.manchester.ac.uk/study/postgraduate-research/research-projects/description/?projectid=11501) HCI group at University of Manchester.
 - 2020.09 - 2020.11 : **Data Engineering Project Practice and Improvement for Software Architecture of Ruritanian Oxygen Company**, Member of the postgraduate Research Program in Prof. Daniel Dresner’s group at University of Manchester.
 - 2020.01 - 2020.06: **Development of Intelligent Financial Software Based on Knowledge Graph Technology**, Undergraduate Graduation Thesis at UESTC and Chengdu Icekredit Information Technology Co., Ltd.
@@ -117,6 +119,7 @@ redirect_from:
 <br>
 <br>
 # 💬 Academic positions
+
 - Reviewer: [International journal of human-computer interaction](https://www.tandfonline.com/journals/hihc20/)
             [Information, communication & society](https://www.tandfonline.com/journals/rics20/)
             [humanities and social sciences communication](https://www.nature.com/palcomms/),
@@ -128,6 +131,7 @@ redirect_from:
 <br>
 <br>
 # 💻 Internships
+
 - 2020.01 - 2020.05: **Intern Software Engineer, [Chengdu Icekredit Information Technology Co., Ltd](https://www.icekredit.com/)**, Chengdu, China.
 - 2019.01 - 2019.08: **Intern Product Manager, [Chengdu Icekredit Information Technology Co., Ltd](https://www.icekredit.com/)**, Chengdu, China.
 - 2018.07 - 2018.09: **Intern Testing Engineer, [Sichuan Cinghoo Science and Technology Co., Ltd](http://www.cinghoo.com/)**, Chengdu, China.
@@ -136,4 +140,5 @@ redirect_from:
 <br>
 <br>
 # 💻 Hobbies
+
 喜欢羽毛球，打游戏（LOL钻石，无畏契约钻石，金铲铲超凡大师），看电竞比赛（BLG铁粉，多次线下，主看LPL和VCTCN），未来想做游戏研究
