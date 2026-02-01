@@ -59,18 +59,12 @@ redirect_from:
 --**Gong,C**., Ren, Y. (2023) PTSD, FOMO and fake news beliefs: a cross-sectional study of Wenchuan earthquake survivors. <i> BMC Public Health </i>, (**2022 SCI JCR Q1**).  [https://doi.org/10.1186/s12889-023-17151-z](https://doi.org/10.1186/s12889-023-17151-z)
 
 --**Gong,C**, et al. (2022).[Smart Memory Storage Solution and Elderly Oriented Smart Equipment Design under Deep Learning](https://www.hindawi.com/journals/cin/2022/6448302/). <i> Computational Intelligence and Neuroscience </i>, (**2021 SCI JCR Q2**) 2022. https://doi.org/10.1155/2022/6448302
-  
-[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=B1eS9l4AAAAJ&citation_for_view=B1eS9l4AAAAJ:u-x6o8ySG0sC]) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
-- A smart memory storage solution based on memory-enhanced embedded learning is constructed based on meta-learning under deep learning. 
-- The results reveal that the solution based on deep learning has obvious effects on different datasets, with an average accuracy rate of 99.7%.
-- The proposed elderly oriented smart device effectively reduces the shortcomings in the current market and lowers the learning difficulty, which provides an important reference for further enriching devices in the ageing market.
-</div></div>
-
 
 --**Gong, C**., & Niu, H. (2021). [Emotional Computing and Emotional Measurement Methods based on Intelligent Algorithms of Wireless Network Communication](https://doi.org/10.1080/03772063.2021.1982417). <i> IETE Journal of Research </i> (**2022 SCI JCR Q3**), 1-9.https://doi.org/10.1080/03772063.2021.1982417
 
 <br>
 <br>
+
 
    **Conferences:**
    
@@ -92,6 +86,7 @@ redirect_from:
 
 <br>
 <br>
+
 # 🎖 Honors and Awards
 
 - 2025.09: **复旦大学太平洋奖学金**
@@ -118,6 +113,7 @@ redirect_from:
 
 <br>
 <br>
+
 # 💬 Academic positions
 
 - Reviewer: [International journal of human-computer interaction](https://www.tandfonline.com/journals/hihc20/)
@@ -130,6 +126,7 @@ redirect_from:
 
 <br>
 <br>
+
 # 💻 Internships
 
 - 2020.01 - 2020.05: **Intern Software Engineer, [Chengdu Icekredit Information Technology Co., Ltd](https://www.icekredit.com/)**, Chengdu, China.
@@ -139,6 +136,7 @@ redirect_from:
 
 <br>
 <br>
+
 # 💻 Hobbies
 
 喜欢羽毛球，打游戏（LOL钻石，无畏契约钻石，金铲铲超凡大师），看电竞比赛（BLG铁粉，多次线下，主看LPL和VCTCN），未来想做游戏研究
